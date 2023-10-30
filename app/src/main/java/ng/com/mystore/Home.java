@@ -14,8 +14,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 
-import ng.com.shoppinglist.db.AppDatabase;
-import ng.com.shoppinglist.db.UnlockModel;
+//import ng.com.shoppinglist.db.AppDatabase;
+//import ng.com.shoppinglist.db.UnlockModel;
+import ng.com.mystore.db.AppDatabase;
+import ng.com.mystore.db.UnlockModel;
 
 public class Home extends AppCompatActivity implements View.OnClickListener, unlock_Dialog.UnlockListener {
     AppDatabase appDatabase;

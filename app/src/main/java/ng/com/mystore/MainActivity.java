@@ -18,8 +18,8 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.List;
 
-import ng.com.shoppinglist.db.Category;
-import ng.com.shoppinglist.viewModel.MainActivityViewModel;
+import ng.com.mystore.db.Category;
+import ng.com.mystore.viewModel.MainActivityViewModel;
 
 public class MainActivity extends AppCompatActivity implements CategoryListAdapter.HandleCategoryClick {
 

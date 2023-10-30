@@ -14,7 +14,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.List;
 
-import ng.com.shoppinglist.db.Items;
+import ng.com.mystore.db.Items;
 
 public class ItemListAdapter extends RecyclerView.Adapter<ItemListAdapter.MyViewolder> {
 

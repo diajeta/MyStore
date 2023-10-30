@@ -15,7 +15,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatDialogFragment;
 
-import ng.com.shoppinglist.db.Items;
+import ng.com.mystore.db.Items;
 
 public class insert_Dialog extends AppCompatDialogFragment {
     Insert_DialogInterface insert_dialogInterface;

@@ -8,8 +8,8 @@ import androidx.lifecycle.MutableLiveData;
 
 import java.util.List;
 
-import ng.com.shoppinglist.db.AppDatabase;
-import ng.com.shoppinglist.db.Purchase;
+import ng.com.mystore.db.AppDatabase;
+import ng.com.mystore.db.Purchase;
 
 public class PurchaseHistoryViewModel extends AndroidViewModel {
     private MutableLiveData<List<Purchase>> listOfPurchase;

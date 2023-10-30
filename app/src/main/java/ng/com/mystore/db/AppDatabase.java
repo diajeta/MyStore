@@ -7,8 +7,8 @@ import androidx.room.Room;
 import androidx.room.RoomDatabase;
 import androidx.room.TypeConverters;
 
-import ng.com.shoppinglist.MyConverter;
-import ng.com.shoppinglist.ShoppingListDAO;
+import ng.com.mystore.MyConverter;
+import ng.com.mystore.ShoppingListDAO;
 
 
 

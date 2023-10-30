@@ -8,10 +8,10 @@ import androidx.room.Update;
 
 import java.util.List;
 
-import ng.com.shoppinglist.db.Category;
-import ng.com.shoppinglist.db.Items;
-import ng.com.shoppinglist.db.Purchase;
-import ng.com.shoppinglist.db.UnlockModel;
+import ng.com.mystore.db.Category;
+import ng.com.mystore.db.Items;
+import ng.com.mystore.db.Purchase;
+import ng.com.mystore.db.UnlockModel;
 
 @Dao
 public interface ShoppingListDAO {

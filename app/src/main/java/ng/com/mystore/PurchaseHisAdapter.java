@@ -13,7 +13,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.List;
 
-import ng.com.shoppinglist.db.PurchaseCollection;
+import ng.com.mystore.db.PurchaseCollection;
 
 public class PurchaseHisAdapter extends RecyclerView.Adapter<PurchaseHisAdapter.MyViewHolder>{
     private Context context;

@@ -9,8 +9,8 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import ng.com.shoppinglist.db.AppDatabase;
-import ng.com.shoppinglist.db.Items;
+import ng.com.mystore.db.AppDatabase;
+import ng.com.mystore.db.Items;
 
 public class EditItemActivity extends AppCompatActivity {
 

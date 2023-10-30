@@ -15,10 +15,10 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
-import ng.com.shoppinglist.db.AppDatabase;
-import ng.com.shoppinglist.db.OneCollection;
-import ng.com.shoppinglist.db.Purchase;
-import ng.com.shoppinglist.db.PurchaseCollection;
+import ng.com.mystore.db.AppDatabase;
+import ng.com.mystore.db.OneCollection;
+import ng.com.mystore.db.Purchase;
+import ng.com.mystore.db.PurchaseCollection;
 
 public class PurchaseHistory extends AppCompatActivity implements PurchaseHisAdapter.DeleteShoppingList {
 

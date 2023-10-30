@@ -8,8 +8,8 @@ import androidx.lifecycle.MutableLiveData;
 
 import java.util.List;
 
-import ng.com.shoppinglist.db.AppDatabase;
-import ng.com.shoppinglist.db.Items;
+import ng.com.mystore.db.AppDatabase;
+import ng.com.mystore.db.Items;
 
 public class ShowItemListActivityViewModel extends AndroidViewModel {
     private MutableLiveData<List<Items>> listOfItems;

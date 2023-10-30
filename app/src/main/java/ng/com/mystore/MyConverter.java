@@ -10,7 +10,7 @@ import java.util.List;
 
 import kotlin.collections.ArraysKt;
 import kotlin.jvm.internal.Intrinsics;
-import ng.com.shoppinglist.db.Chart;
+import ng.com.mystore.db.Chart;
 
 public final class MyConverter {
     @TypeConverter

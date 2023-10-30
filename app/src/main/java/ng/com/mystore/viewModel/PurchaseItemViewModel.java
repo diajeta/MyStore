@@ -5,7 +5,7 @@ import androidx.lifecycle.ViewModel;
 import java.util.ArrayList;
 import java.util.List;
 
-import ng.com.shoppinglist.db.Chart;
+import ng.com.mystore.db.Chart;
 
 public class PurchaseItemViewModel extends ViewModel {
     public List<Chart> shoppingCart = new ArrayList<>();

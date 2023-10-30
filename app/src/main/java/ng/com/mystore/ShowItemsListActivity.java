@@ -20,8 +20,8 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.List;
 
-import ng.com.shoppinglist.db.Items;
-import ng.com.shoppinglist.viewModel.ShowItemListActivityViewModel;
+import ng.com.mystore.db.Items;
+import ng.com.mystore.viewModel.ShowItemListActivityViewModel;
 
 public class ShowItemsListActivity extends AppCompatActivity implements ItemListAdapter.HandleItemsClick {
 

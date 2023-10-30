@@ -12,8 +12,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import java.util.Calendar;
 import java.util.List;
 
-import ng.com.shoppinglist.db.AppDatabase;
-import ng.com.shoppinglist.db.Purchase;
+import ng.com.mystore.db.AppDatabase;
+import ng.com.mystore.db.Purchase;
 
 public class ProfitHistory extends AppCompatActivity {
 

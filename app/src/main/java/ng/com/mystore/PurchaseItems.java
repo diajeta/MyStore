@@ -18,12 +18,12 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
-import ng.com.shoppinglist.db.AppDatabase;
-import ng.com.shoppinglist.db.Category;
-import ng.com.shoppinglist.db.Chart;
-import ng.com.shoppinglist.db.Items;
-import ng.com.shoppinglist.db.Purchase;
-import ng.com.shoppinglist.viewModel.PurchaseItemViewModel;
+import ng.com.mystore.db.AppDatabase;
+import ng.com.mystore.db.Category;
+import ng.com.mystore.db.Chart;
+import ng.com.mystore.db.Items;
+import ng.com.mystore.db.Purchase;
+import ng.com.mystore.viewModel.PurchaseItemViewModel;
 
 public class PurchaseItems extends AppCompatActivity implements insert_Dialog.Insert_DialogInterface, showCart_Dialog.shoCart_DialogIterface{
 
